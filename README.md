@@ -2,7 +2,7 @@
 This repository documents my journey of learning Python from basics to professional level.
 I will be solving assignments topic-wise and updating this repo daily until the course is completed.
 
-#Goals 🎯
+# Goals 🎯
 1) Build a strong foundation in Python.
 2) Progress from beginner concepts to professional-level coding.
 3) Practice with hands-on assignments for each topic.
