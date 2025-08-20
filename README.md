@@ -1,4 +1,13 @@
-# Course-Assignments
+# Python Learning Journey 🚀
+This repository documents my journey of learning Python from basics to professional level.
+I will be solving assignments topic-wise and updating this repo daily until the course is completed.
+
+#Goals 🎯
+1) Build a strong foundation in Python.
+2) Progress from beginner concepts to professional-level coding.
+3) Practice with hands-on assignments for each topic.
+4) Maintain consistency by updating daily.
+
 # Assignment 1
 Here are two basic python programming codes for Beginners
 1) **Task 1:Basic Mathematical Operations** – takes two numbers and prints their sum, difference, product, and quotient.  
@@ -14,5 +23,8 @@ In this, we learn about loops and their basic python codes
 In this assignment, we learn about Function and Moduled in python
 1) **Task 5: Calculate Factorial** - This program calculates the factorial of a number in two ways: using a loop and using recursion. The loop multiplies numbers from 1 to n, while the recursive function calls itself until the base case (1) is reached. The program takes user input for both methods and prints the factorial result.
 2) **Task 6: Using Math Module for Calculations** - This program uses Python’s math module to perform calculations on a user-provided number. It prints the square root, natural logarithm (base e), and sine value of the number using built-in functions from the math library.
+
+# Contribution 🤝
+This repo is part of my personal learning path. Suggestions, feedback, or better approaches are always welcome!
 ---
 
