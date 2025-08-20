@@ -11,13 +11,12 @@ def range_sum(l, r):
     for i in range(l, r + 1): #why r+1 because  it run till 50 not 49
         sum += i
     return sum
-
-
+# ans=range_sum(1,3)
+# print(ans)
 
 # def range_sum(l, r):
-#     sum=(r * (r + 1)) // 2 - ((l - 1) * l) // 2 # this is the formula method
+#     sum=(r * (r + 1)) // 2 - ((l - 1) * l) // 2 # this is the direct formula method
 #     return sum
-
 
 l,r=1,50
 print (f"The sum of numbers from {l} to {r} is : {range_sum(l,r)}")
