@@ -24,6 +24,10 @@ In this assignment, we learn about Function and Moduled in python
 1) **Task 5: Calculate Factorial** - This program calculates the factorial of a number in two ways: using a loop and using recursion. The loop multiplies numbers from 1 to n, while the recursive function calls itself until the base case (1) is reached. The program takes user input for both methods and prints the factorial result.
 2) **Task 6: Using Math Module for Calculations** - This program uses Python’s math module to perform calculations on a user-provided number. It prints the square root, natural logarithm (base e), and sine value of the number using built-in functions from the math library.
 
+# Assignment 4
+In this assignment, we learn about files, errors and exception in Python
+1)**Task 7: Read a File and Handle errors** - This code tries to open Sample.txt in read mode, read its content, and print the first two lines. If the file doesn’t exist, it catches a FileNotFoundError and displays an error message instead.
+2)**Task 8: Write and Append data to a file** - This code opens Output.txt, writes user input into it, then reopens it in append mode to add more text. Finally, it reads the entire file content and displays it. It demonstrates writing, appending, and reading operations on a file using Python.
 # Contribution 🤝
 This repo is part of my personal learning path. Suggestions, feedback, or better approaches are always welcome!
 ---
