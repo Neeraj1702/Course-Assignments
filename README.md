@@ -26,8 +26,8 @@ In this assignment, we learn about Function and Moduled in python
 
 # Assignment 4
 In this assignment, we learn about files, errors and exception in Python
-1)**Task 7: Read a File and Handle errors** - This code tries to open Sample.txt in read mode, read its content, and print the first two lines. If the file doesn’t exist, it catches a FileNotFoundError and displays an error message instead.
-2)**Task 8: Write and Append data to a file** - This code opens Output.txt, writes user input into it, then reopens it in append mode to add more text. Finally, it reads the entire file content and displays it. It demonstrates writing, appending, and reading operations on a file using Python.
+1) **Task 7: Read a File and Handle errors** - This code tries to open Sample.txt in read mode, read its content, and print the first two lines. If the file doesn’t exist, it catches a FileNotFoundError and displays an error message instead.
+2) **Task 8: Write and Append data to a file** - This code opens Output.txt, writes user input into it, then reopens it in append mode to add more text. Finally, it reads the entire file content and displays it. It demonstrates writing, appending, and reading operations on a file using Python.
 # Contribution 🤝
 This repo is part of my personal learning path. Suggestions, feedback, or better approaches are always welcome!
 ---
